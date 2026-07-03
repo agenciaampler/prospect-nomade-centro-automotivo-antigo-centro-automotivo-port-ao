@@ -1,0 +1,78 @@
+{
+    "hero_badge": "Oficina em Portão",
+    "hero_line": "Diagnóstico, freios e revisão com orientação clara para rodar melhor em Portão.",
+    "services_headline": "Diagnóstico antes da troca de peças.",
+    "services_intro": "A página da Nomade Centro Automotivo (Antigo Centro Automotivo Portão) mostra serviços, localização e WhatsApp em uma jornada simples, pensada para c…",
+    "split_headline": "Primeiro entende o problema. Depois agenda.",
+    "confidence_headline": "Nomade Centro Automotivo (Antigo Centro Automotivo Portão): nota 4,9 no Google,…",
+    "location_headline": "Rota para a Nomade Centro Automotivo (Antigo Centro Automotivo Portão) em Portã…",
+    "steps_headline": "Veja, chame e agende.",
+    "faq_headline": "Dúvidas antes de chamar no WhatsApp.",
+    "service_cards": [
+        {
+            "title": "Diagnóstico",
+            "body": "Falhas, ruídos e luz no painel avaliados com clareza antes do serviço.",
+            "icon": "ph-gauge"
+        },
+        {
+            "title": "Freios e suspensão",
+            "body": "Itens de segurança para rodar firme no trânsito de Portão.",
+            "icon": "ph-steering-wheel"
+        },
+        {
+            "title": "Revisão preventiva",
+            "body": "Manutenção planejada para evitar parada inesperada e gasto maior.",
+            "icon": "ph-wrench"
+        }
+    ],
+    "benefits": [
+        {
+            "title": "Primeira orientação rápida",
+            "body": "A Nomade Centro Automotivo (Antigo Centro Automotivo Portão) recebe o caso pelo WhatsApp e indica o melhor próximo passo.",
+            "icon": "ph-check-circle"
+        },
+        {
+            "title": "Atendimento para carros populares e multimarcas",
+            "body": "Marcas como Fiat, Chevrolet, Volkswagen, Renault, Hyundai aparecem com clareza na página.",
+            "icon": "ph-car"
+        },
+        {
+            "title": "Localização evidente",
+            "body": "Mapa, rota e bairro ajudam quem está perto de Portão a decidir.",
+            "icon": "ph-map-pin"
+        }
+    ],
+    "faq": [
+        {
+            "question": "Como peço um orçamento?",
+            "answer": "Chame a Nomade Centro Automotivo (Antigo Centro Automotivo Portão) pelo WhatsApp, envie modelo, ano e descreva o problema."
+        },
+        {
+            "question": "Quais carros atende?",
+            "answer": "A página destaca Fiat, Chevrolet, Volkswagen, Renault, Hyundai. A oficina confirma seu modelo pelo WhatsApp."
+        },
+        {
+            "question": "Onde fica?",
+            "answer": "R. João Bettega, 1106 - Portão, Curitiba - PR, 81070-001"
+        },
+        {
+            "question": "Por que essa página ajuda?",
+            "answer": "Ela organiza serviços, localização, marcas e contato para facilitar decisão e leitura por buscadores/IAs."
+        }
+    ],
+    "image_direction": {
+        "hero_mobile": "Recorte mobile com oficina em dia claro e area limpa para texto de Nomade Centro Automotivo (Antigo Centro Automotivo Portão).",
+        "hero_desktop": "Hero desktop com pessoa/carro à direita e respiro à esquerda para copy.",
+        "service_1": "Diagnostico ou atendimento tecnico em oficina limpa e seca.",
+        "service_2": "Freios, pneus ou suspensao com foco em seguranca.",
+        "trust": "Atendimento humano e consultivo, pessoas diferentes do hero.",
+        "og_image": "Preview limpo para WhatsApp com oficina em dia claro."
+    },
+    "quality_checks": [
+        "Hero curto e sem texto sobre rosto ou carro principal.",
+        "CTA de WhatsApp visivel no mobile.",
+        "Servicos, bairro, marcas, mapa e FAQ claros para SEO/GEO."
+    ],
+    "created_by": "local-batch:reuse-images",
+    "created_at": "2026-07-03T07:43:17-03:00"
+}
